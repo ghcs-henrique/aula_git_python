@@ -11,4 +11,4 @@ Projeto desenvolvido para praticar Python, Git e GitHub.
 python controle_fluxo.py
 ```
 ## Autor
-Seu Nome
+Guilherme Henrique Cunha de Souza
