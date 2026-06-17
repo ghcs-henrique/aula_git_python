@@ -1,4 +1,4 @@
-def mostrar_menu():
+def mostrar_menu():#ÚLTIMO???
     print("\n=== Menu de estudos ===")
     print("1 - Contar de 1 até um número")
     print("2 - Calcular média de notas")
