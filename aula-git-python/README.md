@@ -1,14 +1,23 @@
-# Controle de Fluxo em Python 
-Projeto desenvolvido para praticar Python, Git e GitHub.
-## Conteúdos praticados
+# Controle de Fluxo em Python
+Este repositório contém um programa simples em Python desenvolvido
+para praticar estruturas de controle e versionamento com Git e GitHub.
+## Objetivo
+Praticar o uso de:
 - if, elif e else
 - while
 - for
-- Git init, add, commit e push
-- Publicação de repositório no GitHub
+- Git e GitHub
+- README em Markdown
+## Funcionalidades
+- Contagem de 1 até um número informado pelo usuário
+- Cálculo de média de notas
+- Tabuada de um número
+- Menu de repetição com opção de sair
 ## Como executar
 ```bash
 python controle_fluxo.py
 ```
 ## Autor
-Guilherme Henrique Cunha de Souza
+Nome: Guilherme Henrique Cunha de Souza
+Curso: Análise e Desenvolvimento de Sistemas
+Disciplina: Boas Práticas de Programação
